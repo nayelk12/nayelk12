@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nayelk12
+- 👀 I’m interested in computer software
+- 🌱 I’m currently learning how to create software
+- 💞️ I’m looking to collaborate on computer code
+- 📫 How to reach me is by email.
